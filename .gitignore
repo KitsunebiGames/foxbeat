@@ -1,0 +1,19 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/foxbeat
+foxbeat.so
+foxbeat.dylib
+foxbeat.dll
+foxbeat.a
+foxbeat.lib
+foxbeat-test-*
+*.exe
+*.o
+*.obj
+*.lst
+
+# Don't need these
+dub.selections.json
+out/
